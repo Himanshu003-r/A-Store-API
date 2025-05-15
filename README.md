@@ -5,3 +5,7 @@ This is the simple API backend which stores the product fetched from `package.js
 * PAGINATION - For improved performance and data handling
 * REGEX - Regular expression for sorting the products based on inputed values
 
+# NPM modules to install
+`mongoose` forward database connection and schema buiding
+* On terminal `npm i mongoose`
+* In project call for `const mongoose = require('mongoose')`
