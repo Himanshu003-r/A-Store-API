@@ -6,6 +6,6 @@ This is the simple API backend which stores the product fetched from `package.js
 * REGEX - Regular expression for sorting the products based on inputed values
 
 # NPM modules to install
-`mongoose` forward database connection and schema buiding
+`mongoose` forward database connection and schema buiding to Mongo virtual cloud Atlas
 * On terminal `npm i mongoose`
 * In project call for `const mongoose = require('mongoose')`
