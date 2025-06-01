@@ -1,5 +1,6 @@
 # A simple API for e-commerce websites
-This is the simple API for backend which stores the product fetched from `package.json` and populate the Mongo database. 
+This is the simple API for backend which stores the product fetched from `package.json` and populate it in the Mongo database. 
+This project just have simple routes for REST APIs.
 
 # What's some cool features?
 * PAGINATION - For improved performance and data handling
